@@ -4,7 +4,7 @@ AI Tools Hub is a new platform that makes a large selection of sophisticated AI 
 
 The website provides users with a strong community of AI enthusiasts sharing and testing AI tools.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/hero.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/hero.png)
 
 ## **Features**
 
@@ -15,32 +15,32 @@ The website is packed with helpful features that make discovering and exploring 
 * The website logo is located on the left side of the Header section, while Home, About, Upload Links, Profile, Interests, My Interest Tools, Contact, Login/ Registration on the right do. With this simple and clear design, a consistent experience is guaranteed on all devices.
 
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/header.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/header.png)
 
 ### **2\. Hero Section**
 
 * The Hero section has an eye-catching hero banner that says "Explore the power of AI," and a large "Get Started" button that invites users to explore amazing AI tools It also offers it is clear that users should click the Exit" button section of the Doing tone to give a welcome introduction and make sure it is compatible with multiple devices.  
 * In addition to providing information to users about the features of the platform, there are many technical tools in this area. It helps visitors gain access to the technology without focusing on specific user preferences.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/hero.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/hero.png)
 
 ### **3\. AI Tools**
 
 * This section showcases a variety of technology tools, providing users with an overview of the platform's offerings. It highlights a range of options, helping visitors explore the available technologies without focusing on specific user preferences.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/ai%20tool.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/ai%20tool.png)
 
 ### **4\. Register**
 
 The Register Page allows users to create an account by filling out a simple form. It includes fields for entering a Username, Email, Password, and Confirm Password. This registration process ensures users can quickly join the platform and start personalizing their experience.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/register.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/register.png)
 
 ### **5\. Login**
 
 * The Login Page enables users to access their accounts by entering their email and Password. This simple and secure login process ensures quick access to personalized features and saved preferences on the platform.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/login.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/login.png)
 
 ### 
 
@@ -55,13 +55,13 @@ The About Page provides users with an insight into the platform's background and
 * What Sets Us Apart: Explains the unique features and advantages of using the platform compared to others.  
 * This page helps users connect with the platform's vision and values.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/about.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/about.png)
 
 ### **7\. Contact Us**
 
 * The Contact Us Page provides a form for users to reach out with inquiries or feedback. It includes fields for entering the name, email, and a message. This simple contact form allows users to easily communicate with the platform's support team for assistance or inquiries.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/contact.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/contact.png)
 
 ### **8\. Profile Page**
 
@@ -70,7 +70,7 @@ The About Page provides users with an insight into the platform's background and
 * Edit Name: Modify their display name as desired.  
 * Change Password: Update their account password for security and privacy.  
 * This page ensures users can manage their profile details and maintain control over their accounts.  
-  ![](https://github.com/2306218/aitools/blob/master/assets/images/profile.png)
+  ![](https://github.com/2306218/AiToolHub/blob/main/assets/images/profile.png)
 
 ### 
 
@@ -78,13 +78,13 @@ The About Page provides users with an insight into the platform's background and
 
 * The Interest page allows users to select and indicate which AI technologies interest them most. Users can customize their experience by choosing from categories or options, and they are shown AI tools relevant to their chosen interests This feature ensures that users are aware of the most appropriate tool depending on the choice.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/interest.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/interest.png)
 
 ### **9\. Interest Tools**
 
 The **Interest-Based Tools** page displays AI tools that match the user’s selected interests. Once users have selected their preferences on the Interests page, the platform filters out and displays only the tools relevant to their interests. This customized experience provides users with the greatest features, making it easier for them to learn and explore the AI ​​technologies they are likely to use.
 
-![](https://github.com/2306218/aitools/blob/master/assets/images/my%20tool.png)
+![](https://github.com/2306218/AiToolHub/blob/main/assets/images/my%20tool.png)
 
 ## **Testing**
 
