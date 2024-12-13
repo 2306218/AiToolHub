@@ -110,7 +110,7 @@ The choice of this tech stack ensures scalability, ease of use, and support for 
 
 * **GitHub Repository:**  
   Include your GitHub repository link here.  
-  Example: [GitHub Repository Link](https://github.com/your-repo).  
+  Example: [GitHub Repository Link](https://github.com/2306218/AiToolHub.git).  
 * **Version Control Usage:**  
   Git was used to track code changes, collaborate, and manage different versions of the project.
 
@@ -135,7 +135,7 @@ The platform allows users to interact with the technology by viewing tools and t
 
 bash  
 Copy code  
-`https://github.com/2306218/AiToolHub.git`
+(https://github.com/2306218/AiToolHub.git)
 
 **Step 2: Configure Database**
 
